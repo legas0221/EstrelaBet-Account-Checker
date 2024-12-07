@@ -1,2 +1,5 @@
-# EstrelaBet-Account-Checker
-Estrela Bet Checker With Python | Full Capture | No proxy
+### 💻 Setting-up
+ ```
+  pip install -r requirements.txt
+  python main.py
+  ```
